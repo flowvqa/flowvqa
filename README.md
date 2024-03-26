@@ -1,4 +1,4 @@
-# FlowVQA: Mapping Multimodal Logic in \\Visual Question Answering with Flowcharts 🌊🤔💡
+# FlowVQA: Mapping Multimodal Logic in Visual Question Answering with Flowcharts 🌊🤔💡
 
 ## Welcome to the FlowVQA Project Repository
 
